@@ -1,0 +1,1 @@
+var json_MemberStates_124 = {"type":"FeatureCollection","name":"MemberStates_124","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"MIVAU (Ministry of Housing and Urban Agenda)"},"geometry":{"type":"Point","coordinates":[-3.6900882,40.4280991]}}]}

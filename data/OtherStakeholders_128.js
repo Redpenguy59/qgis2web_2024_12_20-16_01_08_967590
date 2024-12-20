@@ -1,0 +1,1 @@
+var json_OtherStakeholders_128 = {"type":"FeatureCollection","name":"OtherStakeholders_128","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Association of Cities and Regions for sustainable Resource Management (ACR+)"},"geometry":{"type":"Point","coordinates":[4.3859694,50.8382288]}}]}

@@ -1,0 +1,1 @@
+var json_OtherStakeholders_100 = {"type":"FeatureCollection","name":"OtherStakeholders_100","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Dutch Federation of Cultural Heritage Cities, Netherlands"},"geometry":{"type":"Point","coordinates":[4.8982067,52.3743671]}}]}

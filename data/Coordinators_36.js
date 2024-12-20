@@ -1,0 +1,1 @@
+var json_Coordinators_36 = {"type":"FeatureCollection","name":"Coordinators_36","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Haarlem"},"geometry":{"type":"Point","coordinates":[4.6462194,52.3873878]}}]}

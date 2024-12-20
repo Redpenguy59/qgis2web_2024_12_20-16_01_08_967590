@@ -1,0 +1,1 @@
+var json_OtherStakeholders_105 = {"type":"FeatureCollection","name":"OtherStakeholders_105","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Migration Policy Group"},"geometry":{"type":"Point","coordinates":[4.400675,50.8393167]}}]}

@@ -1,0 +1,1 @@
+var json_Coordinators_78 = {"type":"FeatureCollection","name":"Coordinators_78","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Genoa"},"geometry":{"type":"Point","coordinates":[8.946256,44.4056499]}}]}

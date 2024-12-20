@@ -1,0 +1,1 @@
+var json_NationalGovernmentInstitutions_13 = {"type":"FeatureCollection","name":"NationalGovernmentInstitutions_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Ministry of Economic Affairs and Communications"},"geometry":{"type":"Point","coordinates":[24.7397267,59.4269838]}}]}

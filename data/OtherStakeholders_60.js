@@ -1,0 +1,1 @@
+var json_OtherStakeholders_60 = {"type":"FeatureCollection","name":"OtherStakeholders_60","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"United Nations Human Settlement Programme (Un-Habitat)"},"geometry":{"type":"Point","coordinates":[36.817879,-1.232691]}}]}

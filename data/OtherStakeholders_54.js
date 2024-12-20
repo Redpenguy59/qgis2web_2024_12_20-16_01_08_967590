@@ -1,0 +1,1 @@
+var json_OtherStakeholders_54 = {"type":"FeatureCollection","name":"OtherStakeholders_54","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Gouvernment of Flanders"},"geometry":{"type":"Point","coordinates":[4.4477809,51.0950244]}}]}
